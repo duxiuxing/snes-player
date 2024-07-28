@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="M" rom-exists="true">
+    <Game md5="9bf4fcddafab83e98ca54631358d2be0" bytes="2097664"
+        en="Wrecking Crew '98"
+        zhcn="马里奥拆屋工"
+    />
+    <Game md5="dd6661bd75ad233c0778477ad82e19fc" bytes="524288"
+        en="Dr. Mario"
+        zhcn="马里奥医生"
+    />
+</Game-List>

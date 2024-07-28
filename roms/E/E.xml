@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="E" rom-exists="true">
+    <Game md5="183a47f69f734a8f25b94198ec6f3351" bytes="1049088"
+        en="Super Castlevania IV"
+        zhcn="恶魔城4"
+    />
+    <Game md5="8633f40194d4ef61458ab8c24c14dbb5" bytes="2097152"
+        en="Castlevania - Dracula X"
+        zhcn="恶魔城XX"
+    />
+    <Game md5="906a3da585415529b20bd0708fd91486" bytes="4194304"
+        en="Fatal Fury Special"
+        zhcn="饿狼传说特别版"
+    />
+</Game-List>

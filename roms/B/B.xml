@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="B" rom-exists="true">
+    <Game md5="0434b4145c0f1a9da53b24f41adef2aa" bytes="2097664"
+        en="Undercover Cops"
+        zhcn="暴力刑警"
+    />
+    <Game md5="195a840822ee88dba1a7f5dfe0b7e592" bytes="2621440"
+        en="Hokuto no Ken 7"
+        zhcn="北斗神拳7"
+    />
+    <Game md5="517a88892164b47c2821c0708ad08b58" bytes="2097152"
+        en="Batman and Robin The Adventures"
+        zhcn="蝙蝠侠与罗宾"
+    />
+</Game-List>

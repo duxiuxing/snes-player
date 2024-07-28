@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="D" rom-exists="true">
+    <Game md5="5b2a83d6727c4e19192af2878654d301" bytes="1048576"
+        en="Takahashi Meijin no Daibouken Jima"
+        zhcn="大冒险岛"
+    />
+    <Game md5="bff36fc37c1cc484fec092463c1b7982" bytes="1572864"
+        en="Takahashi Meijin no Daibouken Jima II"
+        zhcn="大冒险岛2"
+    />
+    <Game md5="24d451b919168676a4319cfe7d4c5a84" bytes="3145728"
+        en="Ghost Chaser Densei"
+        zhcn="电精"
+    />
+    <Game md5="bc038af2b5170fe614559caa09a295f7" bytes="2097152"
+        en="3rd Super Robot Wars"
+        zhcn="第3次超级机器人大战(中)"
+    />
+    <Game md5="22998552aeec69d590d8137507bf0df2" bytes="4194304"
+        en="4th Super Robot Wars"
+        zhcn="第4次超级机器人大战(中)"
+    />
+</Game-List>

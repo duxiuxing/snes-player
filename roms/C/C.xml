@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="C" rom-exists="true">
+    <Game md5="903809983479dc75297ea38253ed78c5" bytes="3145728"
+        en="Super Mario Collection"
+        zhcn="超级马里奥合集(中)"
+    />
+    <Game md5="004bcb2f5fdb334bc8cdebae1e1bb948" bytes="524288"
+        en="Super Mario Kart"
+        zhcn="超级马里奥赛车"
+    />
+    <Game md5="0f6ca1488210634a8ff1bd3d5178f82e" bytes="524800"
+        en="Super Mario World"
+        zhcn="超级马里奥世界"
+    />
+    <Game md5="0a4754529f2273484fae45859ec9d6eb" bytes="3145728"
+        en="Super Metroid"
+        zhcn="超级银河战士(中)"
+    />
+    <Game md5="7b84a222bf6de7ef9eaf3920f0810832" bytes="1048576"
+        en="Super Ghouls 'N Ghosts"
+        zhcn="超魔界村"
+    />
+</Game-List>
