@@ -1,10 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List>
     <Folder name="【精选射击游戏-战士类】">
+        <Folder name="【系列游戏-机械战警】">
+            <Game md5="cfbd78608d84c42bbc6b7d553dd858a0"
+                zhcn="机械战警3"
+            />
+            <Game md5="3683319beeba73ad6deb851ef72bf3d3"
+                zhcn="机械战警对终结者"
+            />
+        </Folder>
         <Game md5="0a4754529f2273484fae45859ec9d6eb"
-            zhcn="超级银河战士(中)" />
+            zhcn="超级银河战士(中)"
+        />
+        <Game md5="535c0919d8134b661535780ef16673ff"
+            zhcn="荒野双枪"
+        />
+        <Game md5="16484328489d3736b8a727c0dd893ccf"
+            zhcn="毁灭骑兵"
+        />
+        <Game md5="ede82658dafdd6febbfbe6a9c9082500"
+            zhcn="魂斗罗3 异形战争"
+        />
     </Folder>
     <Folder name="【精选游戏-动作类】">
+        <Folder name="【系列游戏-快打刑事】">
+            <Game md5="ee392bdcd28d073585f198ce9187456f"
+                zhcn="快打刑事"
+            />
+            <Game md5="2d4cae907dc6b85a9744f16f2dc5a315"
+                zhcn="快打刑事2 乱"
+            />
+            <Game md5="f5c6d137e35d239d6eec801384b3d28f"
+                zhcn="快打刑事3 修罗"
+            />
+        </Folder>
+        <Folder name="【系列游戏-快打旋风】">
+            <Game md5="c02a087d2f4b6197cc653a9760740c65"
+                zhcn="快打旋风"
+            />
+            <Game md5="36d6af1e5170a6bb64a48d3510ee1d57"
+                zhcn="快打旋风2"
+            />
+            <Game md5="292ab7198b2e7a3062da0c118baf5ba3"
+                zhcn="快打旋风3"
+            />
+        </Folder>
         <Game md5="0434b4145c0f1a9da53b24f41adef2aa"
             zhcn="暴力刑警"
         />
@@ -20,6 +60,15 @@
         <Game md5="aaa1d5ae424dd9267234405fb8ac6fed"
             zhcn="钢铁战士"
         />
+        <Game md5="71c0ce58fd8d09dcfeb5bb1959ae2282"
+            zhcn="黑水海盗"
+        />
+        <Game md5="c976764c97910e54ed96c3ae3c20758d"
+            zhcn="火箭骑士2"
+        />
+        <Game md5="2cb9972856a6270658516e9094ac9368"
+            zhcn="激走战队"
+        />
     </Folder>
     <Folder name="【精选游戏-格斗类】">
         <Game md5="195a840822ee88dba1a7f5dfe0b7e592"
@@ -32,12 +81,30 @@
             zhcn="豪血寺一族"
         />
     </Folder>
-    <Folder name="【精选游戏-文字类】">
-        <Game md5="bc038af2b5170fe614559caa09a295f7"
-            zhcn="第3次超级机器人大战(中)"
+    <Folder name="【精选游戏-竞速类】">
+        <Game md5="55e6635624d65c12be248f8b55a0bfc5"
+            zhcn="街头赛车手"
         />
-        <Game md5="22998552aeec69d590d8137507bf0df2"
-            zhcn="第4次超级机器人大战(中)"
+    </Folder>
+    <Folder name="【精选游戏-文字类】">
+        <Folder name="【系列游戏-超级机器人大战】">
+            <Game md5="bc038af2b5170fe614559caa09a295f7"
+                zhcn="第3次超级机器人大战(中)"
+            />
+            <Game md5="22998552aeec69d590d8137507bf0df2"
+                zhcn="第4次超级机器人大战(中)"
+            />
+        </Folder>
+    </Folder>
+    <Folder name="【系列游戏-火焰之纹章】">
+        <Game md5="9c9dd3352af528cf0ee0916226faac9a"
+            zhcn="火焰之纹章3 纹章之谜(中)"
+        />
+        <Game md5="2c8751d8f964eedb76cc2b85e91c82aa"
+            zhcn="火焰之纹章4 圣战之系谱(中)"
+        />
+        <Game md5="3f3a73a4fe12da04487264d8baed2fb8"
+            zhcn="火焰之纹章5 多拉基亚776(中)"
         />
     </Folder>
     <Folder name="【系列游戏-大冒险岛】">
@@ -54,6 +121,17 @@
         />
         <Game md5="8633f40194d4ef61458ab8c24c14dbb5"
             zhcn="恶魔城XX"
+        />
+    </Folder>
+    <Folder name="【系列游戏-街头霸王】">
+        <Game md5="3b62165e1fffe75a0a5b73848e16453b"
+            zhcn="超级街头霸王2 新的挑战者"
+        />
+        <Game md5="ac63bd5085b0f8f35e2cff59e9c34456"
+            zhcn="街头霸王2 Turbo"
+        />
+        <Game md5="70761ab447f48091a8dc437fd2e9c14d"
+            zhcn="少年街霸2"
         />
     </Folder>
     <Folder name="【系列游戏-马里奥】">

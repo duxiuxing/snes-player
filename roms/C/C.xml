@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="C" rom-exists="true">
+    <Game md5="3b62165e1fffe75a0a5b73848e16453b" bytes="4194304"
+        en="Super Street Fighter II - The New Challengers"
+        zhcn="超级街头霸王2 新的挑战者"
+    />
     <Game md5="903809983479dc75297ea38253ed78c5" bytes="3145728"
         en="Super Mario Collection"
         zhcn="超级马里奥合集(中)"

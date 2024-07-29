@@ -4,4 +4,36 @@
         en="Gouketuji Ichizoku"
         zhcn="豪血寺一族"
     />
+    <Game md5="71c0ce58fd8d09dcfeb5bb1959ae2282" bytes="1048576"
+        en="Dark Water"
+        zhcn="黑水海盗"
+    />
+    <Game md5="535c0919d8134b661535780ef16673ff" bytes="1048576"
+        en="Wild Guns"
+        zhcn="荒野双枪"
+    />
+    <Game md5="16484328489d3736b8a727c0dd893ccf" bytes="2097152"
+        en="Doom Troopers"
+        zhcn="毁灭骑兵"
+    />
+    <Game md5="ede82658dafdd6febbfbe6a9c9082500" bytes="1048576"
+        en="Contra3 The Alien Wars"
+        zhcn="魂斗罗3 异形战争"
+    />
+    <Game md5="c976764c97910e54ed96c3ae3c20758d" bytes="1048576"
+        en="Sparkster"
+        zhcn="火箭骑士2"
+    />
+    <Game md5="9c9dd3352af528cf0ee0916226faac9a" bytes="3145728"
+        en="Fire Emblem - Mystery of the Emblem"
+        zhcn="火焰之纹章3 纹章之谜(中)"
+    />
+    <Game md5="2c8751d8f964eedb76cc2b85e91c82aa" bytes="4194304"
+        en="Fire Emblem - Seisen no Keifu"
+        zhcn="火焰之纹章4 圣战之系谱(中)"
+    />
+    <Game md5="3f3a73a4fe12da04487264d8baed2fb8" bytes="4194304"
+        en="Fire Emblem - Thracia 776"
+        zhcn="火焰之纹章5 多拉基亚776(中)"
+    />
 </Game-List>

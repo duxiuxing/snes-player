@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="K" rom-exists="true">
+    <Game md5="ee392bdcd28d073585f198ce9187456f" bytes="1048576"
+        en="Rushing Beat"
+        zhcn="快打刑事"
+    />
+    <Game md5="2d4cae907dc6b85a9744f16f2dc5a315" bytes="1572864"
+        en="Rushing Beat Ran"
+        zhcn="快打刑事2 乱"
+    />
+    <Game md5="f5c6d137e35d239d6eec801384b3d28f" bytes="2097664"
+        en="Rushing Beat Shura"
+        zhcn="快打刑事3 修罗"
+    />
+    <Game md5="c02a087d2f4b6197cc653a9760740c65" bytes="1310720"
+        en="Final Fight"
+        zhcn="快打旋风"
+    />
+    <Game md5="36d6af1e5170a6bb64a48d3510ee1d57" bytes="1311232"
+        en="Final Fight 2"
+        zhcn="快打旋风2"
+    />
+    <Game md5="292ab7198b2e7a3062da0c118baf5ba3" bytes="3146240"
+        en="Final Fight Tough"
+        zhcn="快打旋风3"
+    />
+</Game-List>

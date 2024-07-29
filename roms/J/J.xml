@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="J" rom-exists="true">
+    <Game md5="cfbd78608d84c42bbc6b7d553dd858a0" bytes="1048576"
+        en=""
+        zhcn="机械战警3"
+    />
+    <Game md5="3683319beeba73ad6deb851ef72bf3d3" bytes="1048576"
+        en=""
+        zhcn="机械战警对终结者"
+    />
+    <Game md5="2cb9972856a6270658516e9094ac9368" bytes="1573376"
+        en=""
+        zhcn="激走战队"
+    />
+    <Game md5="ac63bd5085b0f8f35e2cff59e9c34456" bytes="2621440"
+        en="Street Fighter II Turbo"
+        zhcn="街头霸王2 Turbo"
+    />
+    <Game md5="55e6635624d65c12be248f8b55a0bfc5" bytes="1049088"
+        en="Street Racer"
+        zhcn="街头赛车手"
+    />
+</Game-List>
