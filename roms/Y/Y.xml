@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="Y" rom-exists="true">
+    <Game md5="089bedb3f0db088462a9b7a2e05700c7" bytes="1049088"
+        en=""
+        zhcn="异形对铁血战士"
+    />
+    <Game md5="85c61946145d5ce2b90a5754f3edd20a" bytes="2097664"
+        en="R-Type III - The Third Lightning"
+        zhcn="异形战机3"
+    />
+    <Game md5="25c2d0939564bee6cee14bd84443fb63" bytes="4194304"
+        en="Dragon Quest VI - Realms of Revelation"
+        zhcn="勇者斗恶龙6(中)"
+    />
+    <Game md5="121281122027777b8749e6bee74c473a" bytes="524800"
+        en=""
+        zhcn="宇宙巡航机3"
+    />
+    <Game md5="19e78d4077aa5189514067da3465d4da" bytes="1573376"
+        en=""
+        zhcn="圆桌骑士"
+    />
+</Game-List>

@@ -45,6 +45,15 @@
         <Game md5="f5dd5a0e91a058ba43eafa8ed5bdc629"
             zhcn="兔宝宝大冒险"
         />
+        <Game md5="976dcaf29c7adaafebee550c69ff04cf"
+            zhcn="新热血硬派"
+        />
+        <Game md5="b2f2d004ea640c3db66df958fce122b2"
+            zhcn="星之卡比3"
+        />
+        <Game md5="121281122027777b8749e6bee74c473a"
+            zhcn="宇宙巡航机3"
+        />
     </Folder>
     <Folder name="【精选射击游戏-飞行类】">
         <Folder name="【系列游戏-太空战斗机】">
@@ -60,6 +69,12 @@
         />
         <Game md5="b8249a26bfedeb4c723cc021c23f2652"
             zhcn="闪电出击"
+        />
+        <Game md5="f6fe6ede70012b194666d8f260b52977"
+            zhcn="星际火狐"
+        />
+        <Game md5="85c61946145d5ce2b90a5754f3edd20a"
+            zhcn="异形战机3"
         />
     </Folder>
     <Folder name="【精选射击游戏-战士类】">
@@ -85,6 +100,9 @@
         />
         <Game md5="48ca257dab762c877f62752e3d8c6696"
             zhcn="铁头战士"
+        />
+        <Game md5="466940840196f36a855668fcf84fb94b"
+            zhcn="幸运的卢克"
         />
     </Folder>
     <Folder name="【精选游戏-动作类】">
@@ -157,6 +175,21 @@
         <Game md5="9a88e2421019ee21b8b477f75d323035"
             zhcn="天龙斩"
         />
+        <Game md5="fd4a5ea3a9cdcf8a10b0baf64506cce7"
+            zhcn="修罗战士 钢"
+        />
+        <Game md5="089bedb3f0db088462a9b7a2e05700c7"
+            zhcn="异形对铁血战士"
+        />
+        <Game md5="19e78d4077aa5189514067da3465d4da"
+            zhcn="圆桌骑士"
+        />
+        <Game md5="46b29735c680c494b21caa7d8032ac36"
+            zhcn="战国传承"
+        />
+        <Game md5="64e0fdfc5dd759018924791faa77c2f9"
+            zhcn="终结者2 审判日"
+        />
     </Folder>
     <Folder name="【精选游戏-格斗类】">
         <Game md5="195a840822ee88dba1a7f5dfe0b7e592"
@@ -212,6 +245,21 @@
         />
         <Game md5="426c10d64bf6f959741804f582d167ea"
             zhcn="吞食天地 三国志群雄传(中)"
+        />
+        <Game md5="25c2d0939564bee6cee14bd84443fb63"
+            zhcn="勇者斗恶龙6(中)"
+        />
+        <Game md5="1747fb2d398ea31ab236ba786eb659dc"
+            zhcn="钟楼(中)"
+        />
+        <Game md5="94edf437f7e4a6d7ab629c230ff034b5"
+            zhcn="重装机兵2(中)"
+        />
+        <Game md5="f2f5b335e1e489f6566f6e71417c07ee"
+            zhcn="重装机兵R(中)"
+        />
+        <Game md5="dac6c18aaf093df8c7cdfcde5fbc1995"
+            zhcn="最终幻想6(中)"
         />
     </Folder>
     <Folder name="【系列游戏-大冒险岛】">
@@ -278,6 +326,9 @@
         />
         <Game md5="0f6ca1488210634a8ff1bd3d5178f82e"
             zhcn="超级马里奥世界"
+        />
+        <Game md5="c464855c3ee3cd6652dc42fc4bb2be38"
+            zhcn="超级马里奥世界2 耀西岛"
         />
         <Game md5="9bf4fcddafab83e98ca54631358d2be0"
             zhcn="马里奥拆屋工"

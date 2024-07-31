@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="Z" rom-exists="true">
+    <Game md5="46b29735c680c494b21caa7d8032ac36" bytes="1048576"
+        en=""
+        zhcn="战国传承"
+    />
+    <Game md5="64e0fdfc5dd759018924791faa77c2f9" bytes="1048576"
+        en=""
+        zhcn="终结者2 审判日"
+    />
+    <Game md5="1747fb2d398ea31ab236ba786eb659dc" bytes="3276800"
+        en=""
+        zhcn="钟楼(中)"
+    />
+    <Game md5="94edf437f7e4a6d7ab629c230ff034b5" bytes="1048576"
+        en=""
+        zhcn="重装机兵2(中)" />
+    <Game md5="f2f5b335e1e489f6566f6e71417c07ee" bytes="4194816"
+        en=""
+        zhcn="重装机兵R(中)"
+    />
+    <Game md5="dac6c18aaf093df8c7cdfcde5fbc1995" bytes="3670016"
+        en=""
+        zhcn="最终幻想6(中)"
+    />
+</Game-List>

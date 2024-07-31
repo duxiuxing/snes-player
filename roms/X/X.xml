@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="X" rom-exists="true">
+    <Game md5="976dcaf29c7adaafebee550c69ff04cf" bytes="2097664"
+        en=""
+        zhcn="新热血硬派"
+    />
+    <Game md5="f6fe6ede70012b194666d8f260b52977" bytes="1049088"
+        en=""
+        zhcn="星际火狐"
+    />
+    <Game md5="b2f2d004ea640c3db66df958fce122b2" bytes="4194304"
+        en=""
+        zhcn="星之卡比3"
+    />
+    <Game md5="466940840196f36a855668fcf84fb94b" bytes="1572864"
+        en=""
+        zhcn="幸运的卢克"
+    />
+    <Game md5="fd4a5ea3a9cdcf8a10b0baf64506cce7" bytes="2097152"
+        en="Hagane"
+        zhcn="修罗战士 钢"
+    />
+</Game-List>
