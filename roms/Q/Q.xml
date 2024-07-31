@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="Q" rom-exists="true">
+    <Game md5="29c2dea44aea0a6db50c1e32e0777246" bytes="3145728"
+        en=""
+        zhcn="前线任务(中)"
+    />
+    <Game md5="371459730f6cf44ae92e13c97a764430" bytes="3146240"
+        en=""
+        zhcn="蚯蚓战士"
+    />
+    <Game md5="4c7d7adae2776e087f4923ae8e3884d7" bytes="3146240"
+        en=""
+        zhcn="蚯蚓战士2"
+    />
+</Game-List>

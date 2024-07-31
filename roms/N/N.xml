@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="N" rom-exists="true">
+    <Game md5="6fc7d9663c350799d8f0b6168691385a" bytes="2097152"
+        en=""
+        zhcn="鸟人战队"
+    />
+    <Game md5="d44d15c13bac66f2ad7b9441acf92de6" bytes="1573376"
+        en=""
+        zhcn="鸟人战队2"
+    />
+    <Game md5="b0344723a1a2af7ff4fe9d46e57d2180" bytes="1048576"
+        en="Ikari no Yousai"
+        zhcn="怒之要塞"
+    />
+</Game-List>

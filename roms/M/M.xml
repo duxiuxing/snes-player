@@ -8,4 +8,20 @@
         en="Dr. Mario"
         zhcn="马里奥医生"
     />
+    <Game md5="bfcb55b722935efd5810787d63c9321c" bytes="4194304"
+        en="Der Langrisser"
+        zhcn="梦幻模拟战2(中)"
+    />
+    <Game md5="0ba438ff5566af575f09eaa4f92ff300" bytes="2621952"
+        en="Solstice II"
+        zhcn="秘境魔宝"
+    />
+    <Game md5="cf7ce200024e1599533fad9573a2cd17" bytes="2097664"
+        en="Captain Commando"
+        zhcn="名将"
+    />
+    <Game md5="68f24e0a0a06ec603ab4b893d2982292" bytes="2097152"
+        en="Harvest Moon"
+        zhcn="牧场物语"
+    />
 </Game-List>

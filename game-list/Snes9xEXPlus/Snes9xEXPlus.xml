@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List>
+    <Folder name="【精选射击游戏-飞行类】">
+        <Game md5="9335689fcc1720e08ddffc8ddec9b62d"
+            zhcn="雷电传说"
+        />
+    </Folder>
     <Folder name="【精选射击游戏-战士类】">
         <Folder name="【系列游戏-机械战警】">
             <Game md5="cfbd78608d84c42bbc6b7d553dd858a0"
@@ -7,6 +12,14 @@
             />
             <Game md5="3683319beeba73ad6deb851ef72bf3d3"
                 zhcn="机械战警对终结者"
+            />
+        </Folder>
+        <Folder name="【系列游戏-蚯蚓战士】">
+            <Game md5="371459730f6cf44ae92e13c97a764430"
+                zhcn="蚯蚓战士"
+            />
+            <Game md5="4c7d7adae2776e087f4923ae8e3884d7"
+                zhcn="蚯蚓战士2"
             />
         </Folder>
         <Game md5="0a4754529f2273484fae45859ec9d6eb"
@@ -20,6 +33,9 @@
         />
         <Game md5="ede82658dafdd6febbfbe6a9c9082500"
             zhcn="魂斗罗3 异形战争"
+        />
+        <Game md5="b0344723a1a2af7ff4fe9d46e57d2180"
+            zhcn="怒之要塞"
         />
     </Folder>
     <Folder name="【精选游戏-动作类】">
@@ -43,6 +59,14 @@
             />
             <Game md5="292ab7198b2e7a3062da0c118baf5ba3"
                 zhcn="快打旋风3"
+            />
+        </Folder>
+        <Folder name="【系列游戏-鸟人战队】">
+            <Game md5="6fc7d9663c350799d8f0b6168691385a"
+                zhcn="鸟人战队"
+            />
+            <Game md5="d44d15c13bac66f2ad7b9441acf92de6"
+                zhcn="鸟人战队2"
             />
         </Folder>
         <Game md5="0434b4145c0f1a9da53b24f41adef2aa"
@@ -69,6 +93,12 @@
         <Game md5="2cb9972856a6270658516e9094ac9368"
             zhcn="激走战队"
         />
+        <Game md5="0369d5ce03b8cda1db38c347cd46b9ac"
+            zhcn="零式特攻队"
+        />
+        <Game md5="cf7ce200024e1599533fad9573a2cd17"
+            zhcn="名将"
+        />
     </Folder>
     <Folder name="【精选游戏-格斗类】">
         <Game md5="195a840822ee88dba1a7f5dfe0b7e592"
@@ -79,6 +109,9 @@
         />
         <Game md5="e055a2c794f57c87fdd21507d4892dc3"
             zhcn="豪血寺一族"
+        />
+        <Game md5="92b091e80b7791c17d70d36efd66bb18"
+            zhcn="龙虎之拳2"
         />
     </Folder>
     <Folder name="【精选游戏-竞速类】">
@@ -95,16 +128,11 @@
                 zhcn="第4次超级机器人大战(中)"
             />
         </Folder>
-    </Folder>
-    <Folder name="【系列游戏-火焰之纹章】">
-        <Game md5="9c9dd3352af528cf0ee0916226faac9a"
-            zhcn="火焰之纹章3 纹章之谜(中)"
+        <Game md5="bfcb55b722935efd5810787d63c9321c"
+            zhcn="梦幻模拟战2(中)"
         />
-        <Game md5="2c8751d8f964eedb76cc2b85e91c82aa"
-            zhcn="火焰之纹章4 圣战之系谱(中)"
-        />
-        <Game md5="3f3a73a4fe12da04487264d8baed2fb8"
-            zhcn="火焰之纹章5 多拉基亚776(中)"
+        <Game md5="29c2dea44aea0a6db50c1e32e0777246"
+            zhcn="前线任务(中)"
         />
     </Folder>
     <Folder name="【系列游戏-大冒险岛】">
@@ -123,6 +151,17 @@
             zhcn="恶魔城XX"
         />
     </Folder>
+    <Folder name="【系列游戏-火焰之纹章】">
+        <Game md5="9c9dd3352af528cf0ee0916226faac9a"
+            zhcn="火焰之纹章3 纹章之谜(中)"
+        />
+        <Game md5="2c8751d8f964eedb76cc2b85e91c82aa"
+            zhcn="火焰之纹章4 圣战之系谱(中)"
+        />
+        <Game md5="3f3a73a4fe12da04487264d8baed2fb8"
+            zhcn="火焰之纹章5 多拉基亚776(中)"
+        />
+    </Folder>
     <Folder name="【系列游戏-街头霸王】">
         <Game md5="3b62165e1fffe75a0a5b73848e16453b"
             zhcn="超级街头霸王2 新的挑战者"
@@ -132,6 +171,23 @@
         />
         <Game md5="70761ab447f48091a8dc437fd2e9c14d"
             zhcn="少年街霸2"
+        />
+    </Folder>
+    <Folder name="【系列游戏-洛克人】">
+        <Game md5="e9c126cbd7c68c9e985dc501f625b030"
+            zhcn="洛克人7"
+        />
+        <Game md5="19bf3ac320754ae21b586ce112b19ec5"
+            zhcn="洛克人X"
+        />
+        <Game md5="42aecc0aa8a369ab42056ebd4c7d0ac4"
+            zhcn="洛克人X2"
+        />
+        <Game md5="b1023717d7beae8ca83a390198fbcbff"
+            zhcn="洛克人X3"
+        />
+        <Game md5="55d9cdb05f53a3f7a5e3eacb81b28f09"
+            zhcn="洛克人与佛鲁迪"
         />
     </Folder>
     <Folder name="【系列游戏-马里奥】">
