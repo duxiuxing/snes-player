@@ -1,7 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="S" rom-exists="true">
+    <Game md5="d5550f29f94ac8151bf38f2720ff8751" bytes="1572864"
+        en="The Legend of Zelda: A Link to the Past"
+        zhcn="塞尔达传说 众神的三角力量(中)"
+    />
+    <Game md5="b8249a26bfedeb4c723cc021c23f2652" bytes="1048576"
+        en=""
+        zhcn="闪电出击"
+    />
     <Game md5="70761ab447f48091a8dc437fd2e9c14d" bytes="4194304"
         en="Street Fighter Zero 2"
         zhcn="少年街霸2"
+    />
+    <Game md5="dfd8e9b6ebafed19bb249e7b11aa0f5e" bytes="4194304"
+        en=""
+        zhcn="圣剑传说3(中)"
+    />
+    <Game md5="088f6eac0f6fdea18cfee286eb2dcbd7" bytes="2621952"
+        en=""
+        zhcn="时空勇士(中)"
+    />
+    <Game md5="928b7bd74ae36d6b39d6b10fc6a9c06a" bytes="2097664"
+        en=""
+        zhcn="时空战警"
+    />
+    <Game md5="792a6f9f7e2d4ca0ef783fe302ea320c" bytes="4194304"
+        en=""
+        zhcn="时空之轮(中)"
+    />
+    <Game md5="4a2bcdaef8a796c0110ab45e99a6e780" bytes="4194304"
+        en=""
+        zhcn="侍魂"
+    />
+    <Game md5="ef37e657e2bb1fbff7c1c09a184028b5" bytes="1048576"
+        en=""
+        zhcn="双截龙4 回归"
+    />
+    <Game md5="1ce98971e7361d5b41adb218cbeead93" bytes="3146240"
+        en=""
+        zhcn="双截龙5"
+    />
+    <Game md5="344b7230ec7640a8229c3b2c4764aa2b" bytes="1311232"
+        en="Sonic Wings"
+        zhcn="四国战机"
     />
 </Game-List>

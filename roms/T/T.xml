@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="T" rom-exists="true">
+    <Game md5="576e89ea12fc942b9a4f4b03df5f72b9" bytes="1048576"
+        en="Darius Force"
+        zhcn="太空战斗机 力量"
+    />
+    <Game md5="0e7c6781a6ae15d36a5885a03c132898" bytes="1048576"
+        en=""
+        zhcn="太空战斗机 双子"
+    />
+    <Game md5="dc886eda4c45ae4c7fde88e2b4b8cfc1" bytes="3145728"
+        en=""
+        zhcn="唐老鸭大冒险"
+    />
+    <Game md5="b4e6b7f4414ec275848f1c536914ca7b" bytes="4194304"
+        en=""
+        zhcn="天地创造(中)"
+    />
+    <Game md5="9a88e2421019ee21b8b477f75d323035" bytes="1048576"
+        en=""
+        zhcn="天龙斩"
+    />
+    <Game md5="72e9f23b2590b9c851084894ab704f7c" bytes="5242880"
+        en="Tengai Makyou Zero - Far East of Eden Zero"
+        zhcn="天外魔镜ZERO(中)"
+    />
+    <Game md5="48ca257dab762c877f62752e3d8c6696" bytes="1049088"
+        en=""
+        zhcn="铁头战士"
+    />
+    <Game md5="f5dd5a0e91a058ba43eafa8ed5bdc629" bytes="1049088"
+        en=""
+        zhcn="兔宝宝大冒险"
+    />
+    <Game md5="426c10d64bf6f959741804f582d167ea" bytes="1572864"
+        en=""
+        zhcn="吞食天地 三国志群雄传(中)"
+    />
+</Game-List>

@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List>
-    <Folder name="【精选射击游戏-飞行类】">
-        <Game md5="9335689fcc1720e08ddffc8ddec9b62d"
-            zhcn="雷电传说"
-        />
-    </Folder>
-    <Folder name="【精选射击游戏-战士类】">
+    <Folder name="【红白机游戏重置】">
         <Folder name="【系列游戏-机械战警】">
             <Game md5="cfbd78608d84c42bbc6b7d553dd858a0"
                 zhcn="机械战警3"
@@ -14,6 +9,60 @@
                 zhcn="机械战警对终结者"
             />
         </Folder>
+        <Game md5="bd4759afcffd0bd51354f4b620b87457"
+            zhcn="忍者龙剑传合集"
+        />
+        <Game md5="68bc167bfcb244214296849aff441641"
+            zhcn="忍者蛙"
+        />
+        <Game md5="81aa7f4165b836ea892a2aa0eebc5d22"
+            zhcn="忍者蛙和双截龙"
+        />
+        <Game md5="dc886eda4c45ae4c7fde88e2b4b8cfc1"
+            zhcn="唐老鸭大冒险"
+        />
+    </Folder>
+    <Folder name="【红白机游戏续作】">
+        <Folder name="【系列游戏-忍者神龟】">
+            <Game md5="807009d25eb31559974daa3e39eeccd7"
+                zhcn="忍者神龟4"
+            />
+            <Game md5="878e95bca6b94b3fa0e72fef1867434c"
+                zhcn="忍者神龟5"
+            />
+        </Folder>
+        <Folder name="【系列游戏-双截龙】">
+            <Game md5="ef37e657e2bb1fbff7c1c09a184028b5"
+                zhcn="双截龙4 回归"
+            />
+            <Game md5="1ce98971e7361d5b41adb218cbeead93"
+                zhcn="双截龙5"
+            />
+        </Folder>
+        <Game md5="ede82658dafdd6febbfbe6a9c9082500"
+            zhcn="魂斗罗3 异形战争"
+        />
+        <Game md5="f5dd5a0e91a058ba43eafa8ed5bdc629"
+            zhcn="兔宝宝大冒险"
+        />
+    </Folder>
+    <Folder name="【精选射击游戏-飞行类】">
+        <Folder name="【系列游戏-太空战斗机】">
+            <Game md5="576e89ea12fc942b9a4f4b03df5f72b9"
+                zhcn="太空战斗机 力量"
+            />
+            <Game md5="0e7c6781a6ae15d36a5885a03c132898"
+                zhcn="太空战斗机 双子"
+            />
+        </Folder>
+        <Game md5="9335689fcc1720e08ddffc8ddec9b62d"
+            zhcn="雷电传说"
+        />
+        <Game md5="b8249a26bfedeb4c723cc021c23f2652"
+            zhcn="闪电出击"
+        />
+    </Folder>
+    <Folder name="【精选射击游戏-战士类】">
         <Folder name="【系列游戏-蚯蚓战士】">
             <Game md5="371459730f6cf44ae92e13c97a764430"
                 zhcn="蚯蚓战士"
@@ -31,11 +80,11 @@
         <Game md5="16484328489d3736b8a727c0dd893ccf"
             zhcn="毁灭骑兵"
         />
-        <Game md5="ede82658dafdd6febbfbe6a9c9082500"
-            zhcn="魂斗罗3 异形战争"
-        />
         <Game md5="b0344723a1a2af7ff4fe9d46e57d2180"
             zhcn="怒之要塞"
+        />
+        <Game md5="48ca257dab762c877f62752e3d8c6696"
+            zhcn="铁头战士"
         />
     </Folder>
     <Folder name="【精选游戏-动作类】">
@@ -99,6 +148,15 @@
         <Game md5="cf7ce200024e1599533fad9573a2cd17"
             zhcn="名将"
         />
+        <Game md5="c86c99d1454426b908c89fd1caa858dc"
+            zhcn="忍者战士 牙"
+        />
+        <Game md5="928b7bd74ae36d6b39d6b10fc6a9c06a"
+            zhcn="时空战警"
+        />
+        <Game md5="9a88e2421019ee21b8b477f75d323035"
+            zhcn="天龙斩"
+        />
     </Folder>
     <Folder name="【精选游戏-格斗类】">
         <Game md5="195a840822ee88dba1a7f5dfe0b7e592"
@@ -112,6 +170,9 @@
         />
         <Game md5="92b091e80b7791c17d70d36efd66bb18"
             zhcn="龙虎之拳2"
+        />
+        <Game md5="4a2bcdaef8a796c0110ab45e99a6e780"
+            zhcn="侍魂"
         />
     </Folder>
     <Folder name="【精选游戏-竞速类】">
@@ -133,6 +194,24 @@
         />
         <Game md5="29c2dea44aea0a6db50c1e32e0777246"
             zhcn="前线任务(中)"
+        />
+        <Game md5="d5550f29f94ac8151bf38f2720ff8751"
+            zhcn="塞尔达传说 众神的三角力量(中)"
+        />
+        <Game md5="dfd8e9b6ebafed19bb249e7b11aa0f5e"
+            zhcn="圣剑传说3(中)"
+        />
+        <Game md5="088f6eac0f6fdea18cfee286eb2dcbd7"
+            zhcn="时空勇士(中)"
+        />
+        <Game md5="792a6f9f7e2d4ca0ef783fe302ea320c"
+            zhcn="时空之轮(中)"
+        />
+        <Game md5="72e9f23b2590b9c851084894ab704f7c"
+            zhcn="天外魔镜ZERO(中)"
+        />
+        <Game md5="426c10d64bf6f959741804f582d167ea"
+            zhcn="吞食天地 三国志群雄传(中)"
         />
     </Folder>
     <Folder name="【系列游戏-大冒险岛】">

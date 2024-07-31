@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game-List name="R" rom-exists="true">
+    <Game md5="bd4759afcffd0bd51354f4b620b87457" bytes="1572864"
+        en="Ninja Ryukenden Tomoe"
+        zhcn="忍者龙剑传合集"
+    />
+    <Game md5="807009d25eb31559974daa3e39eeccd7" bytes="1048576"
+        en=""
+        zhcn="忍者神龟4"
+    />
+    <Game md5="878e95bca6b94b3fa0e72fef1867434c" bytes="2097152"
+        en=""
+        zhcn="忍者神龟5"
+    />
+    <Game md5="68bc167bfcb244214296849aff441641" bytes="1049088"
+        en="Battletoads in Battlemaniacs"
+        zhcn="忍者蛙"
+    />
+    <Game md5="81aa7f4165b836ea892a2aa0eebc5d22" bytes="1049088"
+        en=""
+        zhcn="忍者蛙和双截龙"
+    />
+    <Game md5="c86c99d1454426b908c89fd1caa858dc" bytes="1572864"
+        en=""
+        zhcn="忍者战士 牙"
+    />
+</Game-List>
