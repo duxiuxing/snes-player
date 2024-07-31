@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Game-List name="K" rom-exists="true">
+    <Game md5="6fc7d9663c350799d8f0b6168691385a" bytes="2097152"
+        en="Power Rangers"
+        zhcn="恐龙战队"
+    />
+    <Game md5="d44d15c13bac66f2ad7b9441acf92de6" bytes="1573376"
+        en="Power Rangers Movie"
+        zhcn="恐龙战队2"
+    />
     <Game md5="ee392bdcd28d073585f198ce9187456f" bytes="1048576"
         en="Rushing Beat"
         zhcn="快打刑事"

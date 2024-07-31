@@ -39,6 +39,14 @@
         />
     </Folder>
     <Folder name="【精选游戏-动作类】">
+        <Folder name="【系列游戏-恐龙战队】">
+            <Game md5="6fc7d9663c350799d8f0b6168691385a"
+                zhcn="恐龙战队"
+            />
+            <Game md5="d44d15c13bac66f2ad7b9441acf92de6"
+                zhcn="恐龙战队2"
+            />
+        </Folder>
         <Folder name="【系列游戏-快打刑事】">
             <Game md5="ee392bdcd28d073585f198ce9187456f"
                 zhcn="快打刑事"
@@ -59,14 +67,6 @@
             />
             <Game md5="292ab7198b2e7a3062da0c118baf5ba3"
                 zhcn="快打旋风3"
-            />
-        </Folder>
-        <Folder name="【系列游戏-鸟人战队】">
-            <Game md5="6fc7d9663c350799d8f0b6168691385a"
-                zhcn="鸟人战队"
-            />
-            <Game md5="d44d15c13bac66f2ad7b9441acf92de6"
-                zhcn="鸟人战队2"
             />
         </Folder>
         <Game md5="0434b4145c0f1a9da53b24f41adef2aa"
